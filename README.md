@@ -19,7 +19,7 @@ Python 3.10 or newer. No third-party dependencies. Standard library only.
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ct-timeline.git
+git clone https://github.com/osintph/ct-timeline.git
 cd ct-timeline
 chmod +x ct_timeline.py
 ```
