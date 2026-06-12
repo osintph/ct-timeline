@@ -337,6 +337,7 @@ html, body {{
   background: var(--paper);
   box-shadow: 0 1px 0 var(--rule-soft), 0 24px 60px rgba(22, 23, 25, 0.08);
   min-height: 100vh;
+  position: relative;
 }}
 
 /* ------- Masthead ------- */
